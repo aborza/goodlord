@@ -1,0 +1,19 @@
+{
+    "name": "basket/interview",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Basket\\Interview\\": "src/",
+            "Basket\\Interview\\Test": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aborza",
+            "email": "aborza@pentalog.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

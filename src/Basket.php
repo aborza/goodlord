@@ -90,8 +90,6 @@ class Basket
         return isset($this->quantities[$product->getId()]);
     }
 
-    private function printTest(): string
-    {
-       return 'Print testsssss';
-    }
+
+
 }

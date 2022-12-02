@@ -95,4 +95,9 @@ class Basket
     {
         return 'YYYYY';
     }
+
+    public function test2(): string
+    {
+        return 'YYYYY222';
+    }
 }

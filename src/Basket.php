@@ -93,6 +93,6 @@ class Basket
 
     public function test(): string
     {
-        return 'CXXXXXX';
+        return 'YYYYY';
     }
 }
